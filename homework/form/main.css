@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(103, 212, 221);
+}
+.container{
+    display: flex;
+    align-items: center;
+    width: 1400px;
+    height: 750px;
+    margin: 0 auto;
+    background-image: url(./images/1236489.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.box{
+    width: 550px;
+    height: 600px;
+    background-color: #fff;
+    margin: 0 auto;
+    border: 1px solid;
+    box-shadow: 10px 15px 25px 5px;
+}
+label{
+    display: block;
+    margin: 30px;
+    font-size: 25px;
+}
+input{
+    height: 40px;
+    border-radius: 8px;
+}

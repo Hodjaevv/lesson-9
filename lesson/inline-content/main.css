@@ -1,0 +1,62 @@
+/* flex-direction */ 
+
+/*.flex-container {
+    display: flex;
+    background-color: DodgerBlue;
+     flex-direction: row;  DEFAULT HOLATI*/
+    /* flex-direction: row-reverse; reverse-aksincha */
+    /* flex-direction: column;  
+    Y o'qi bo'yicha ustun qilib joylashtiradi*/
+    /* flex-direction: column-reverse;
+
+}*/ 
+/* .flex-container > div {
+    background-color: #f1f1f1;
+    width: 100px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+}  */
+
+/* flex-wrap */
+
+ /* .flex-container {
+    display: flex;
+   flex-wrap: nowrap;  DEFAULT HOLATI*/
+    /* flex-wrap: wrap;  contentni width ni buzmagal holda sig'maganini pastga keyingi qatorga o'tkizadi*/
+    /*flex-wrap: wrap-reverse;  contentni width-ni buzmagal holda sig'maganini pastga keyingi qatorga olib qatorni almashtiradi 
+    background-color: DodgerBlue;
+  }*/
+  
+  /* .flex-container > div {
+    background-color: #f1f1f1;
+    width: 100px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+  } */
+
+/* flex-flow */
+
+  .flex-container {
+    display: flex;
+    /* flex-direction: column; */
+    /* flex-flow: column; */
+    /* flex-flow: column-reverse; */
+    /* flex-flow: nowrap;  DEFAUL HOLATI*/
+    /* flex-flow: wrap;  contentni width ni buzmagal holda sig'maganini pastga keyingi qatorga o'tkizadi*/
+    /* flex-flow: wrap-reverse;   contentni width-ni buzmagal holda sig'maganini pastga keyingi qatorga olib qatorni almashtiradi */
+
+    background-color: DodgerBlue;
+  }
+  
+  .flex-container > div {
+    background-color: #f1f1f1;
+    width: 100px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+  }

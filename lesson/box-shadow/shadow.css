@@ -1,0 +1,8 @@
+.box{
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    margin: 200px auto;
+    box-shadow: 30px 30px 30px 40px;
+    /* 1-x bo'yicha/ 2-y bo'yicha/ 3-soyalashtirish/ 4-xajmi */
+}

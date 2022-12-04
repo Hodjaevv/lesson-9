@@ -1,0 +1,22 @@
+.nav-1{
+    position: fixed;
+    /* left: 109px; */
+    width: 1300px;
+    height: 60px;
+    background-color: aqua;
+    margin: 0 auto;
+}
+ul{
+    display: flex;
+    list-style: none;
+    margin-left: 30px;
+}
+.nav-2{
+    /* position: -webkit-sticky; */
+    /* position: sticky;
+    top: 0px; */
+    width: 1300px;
+    height: 60px;
+    margin: 0 auto;
+    background-color: rgb(0, 17, 255);
+}
